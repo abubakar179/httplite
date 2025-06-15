@@ -12,7 +12,7 @@
   <a href="https://github.com/abubakar179/httplite/actions">
     <img src="https://img.shields.io/github/actions/workflow/status/abubakar179/httplite/build.yml?branch=main&label=CI&style=flat-square" alt="Build Status">
   </a>
-  <img src="https://img.shields.io/badge/LOC-6-blue?style=flat-square" alt="Lines of Code">
+  <img src="https://img.shields.io/badge/LOC-0-blue?style=flat-square" alt="Lines of Code">
   <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License">
 </p>
 
@@ -23,7 +23,7 @@
 - 🧠 **Zero Configuration:** Just run it. No YAML, no JSON, no mercy.
 - ⚙️ **Production-Ready:** Built on *real* HTTP tech.
 - 💨 **Blazingly Fast:** Startup time measured in nanoseconds.
-- 🪶 **Lightweight:** 6 lines of pure, unstoppable C.
+- 🪶 **Lightweight:** Written as few lines of C as possible.
 - 🔐 **Secure:** No external input. No dynamic shell parsing. Nothing to hack.
 
 ## 📦 Installation
