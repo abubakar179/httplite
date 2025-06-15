@@ -4,9 +4,9 @@
 
 int main() {
     const char *servers[][4] = {
+        {"python3", "-m", "http.server", NULL},
         {"httpd", NULL},
         {"apache2", NULL},
-        {"python3", "-m", "http.server", NULL},
         {"busybox", "httpd", NULL},
         {"nginx", NULL},
     };
